@@ -1,0 +1,24 @@
+{
+  "author": "Pedro Santos",
+  "name": "challengerz-randonneurs-pt",
+  "description": "Loads randonneursportugal.pt events do www.challengerz.net",
+  "version": "0.1.0",
+  "homepage": "http://www.challengerz.net",
+  "preferGlobal": "false",
+
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:donbonifacio/challengerz-randonneurs-pt.git"
+  },
+
+  "dependencies": {
+    "underscore": "1.4.2",
+    "challengerz-api-js": "0.1.0"
+  },
+
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+
+}
